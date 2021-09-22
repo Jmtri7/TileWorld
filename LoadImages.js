@@ -33,7 +33,7 @@ MapImage("wings");
 MapImage("druidskirt");
 
 // other
-MapImage("chicken");
+MapImage("Chicken");
 
 var tileset = [];
 
